@@ -1,7 +1,7 @@
-import _chai from 'chai';
+import _chai from 'isotropic-dev-dependencies/lib/chai.js';
 import _Error from 'isotropic-error';
 import _later from 'isotropic-later';
-import _mocha from 'mocha';
+import _mocha from 'isotropic-dev-dependencies/lib/mocha.js';
 import _Mutex from '../js/mutex.js';
 
 _mocha.describe('mutex', function () {
