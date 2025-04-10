@@ -8,6 +8,7 @@
     },
     "description": "In-process resource locking for JavaScript",
     "devDependencies": {
+        "eslint": "~9.8.0",
         "isotropic-dev-dependencies": "~0.3.0"
     },
     "engines": {
